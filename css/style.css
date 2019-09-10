@@ -1313,6 +1313,11 @@ a.button:hover {
 		transform: translateY(-50%);
 	}
 
+	#event-header #pubg-head .head {
+		width: calc(100%);
+		text-align: right;
+		font-size: 30px;
+	}
 
 }
 
